@@ -32,6 +32,3 @@ For production environment
 ```bash
 npm run prod
 ```
-
-## API Document
-[http://localhost:3000/api-docs](http://localhost:3000/api-docs)
